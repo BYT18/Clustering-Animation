@@ -2,6 +2,9 @@
 
 This high school project implements the K-means clustering algorithm in Python. K-means is a popular unsupervised learning algorithm used for clustering data points into K clusters based on their features.
 
+![image](https://github.com/BYT18/Clustering-Animation/assets/68192622/bfef189f-2da5-491c-8a54-dbb283e172a5)
+
+
 ## How it Works
 
 1. **Initialization**: K initial centroids are randomly selected from the data points.
